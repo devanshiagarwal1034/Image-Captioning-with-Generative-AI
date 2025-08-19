@@ -2,11 +2,11 @@
 
 Welcome to the **Image Captioning AI** project! This tool automatically generates meaningful descriptions for images, making visual content more accessible and easier to manage.
 
+
 ## Key Benefits
 
 This technology can:
 
-- Improve accessibility for visually impaired users
 - Enhance search and content discovery
 - Boost social media engagement
 - Streamline data management across various industries
