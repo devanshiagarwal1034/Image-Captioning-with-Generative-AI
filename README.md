@@ -5,7 +5,7 @@ Welcome to the **Image Captioning AI** project! This tool automatically generate
 
 ## Key Benefits
 
-This technology can:
+This technology can -
 
 - Enhance search and content discovery
 - Boost social media engagement
@@ -14,11 +14,10 @@ This technology can:
 
 ## Project Overview
 
-This project implements an **automated image captioning AI** that:
+This project implements an **automated image captioning AI** that -
 
 - Understands the content of images
 - Generates accurate and meaningful descriptions
-- Creates a text-based index for easy image retrieval
 
 
 
