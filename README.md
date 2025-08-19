@@ -4,6 +4,9 @@ Welcome to the **Image Captioning AI** project! This tool automatically generate
 
 ![Alt text](demo_snippet_1.png)
 
+![Alt text](demo_snippet_2.png)
+
+![Alt text](demo_snippet_3.png)
 ### Key Benefits
 
 This technology can -
