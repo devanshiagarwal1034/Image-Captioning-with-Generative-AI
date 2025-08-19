@@ -2,7 +2,7 @@
 
 Welcome to the **Image Captioning AI** project! This tool automatically generates meaningful descriptions for images, making visual content more accessible and easier to manage.
 
-!(demo_snippet_1.png)
+![Alt text](demo_snippet_1.png)
 
 ### Key Benefits
 
