@@ -129,15 +129,6 @@ demo.launch()
 
 
 
-## **Summary**
-
-1. Install dependencies.
-2. Upload images.
-3. Preprocess images for BLIP.
-4. Load BLIP model and processor.
-5. Generate captions.
-6. Display captions in console or via a web interface.
-
 
 
 
