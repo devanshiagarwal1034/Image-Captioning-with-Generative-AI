@@ -23,12 +23,12 @@ This project implements an **automated image captioning AI** that -
 
 ### Technology Stack
 
-### 1. Image Captioning with BLIP
+1. Image Captioning with BLIP
 
 - Utilizes Hugging Face’s **BLIP (Bootstrapped Language-Image Pretraining)** model
 - Supports multi-modal tasks such as image-text retrieval and caption generation
 
-### 2. User-Friendly Interface with Gradio
+2. User-Friendly Interface with Gradio
 
 - Builds a web-based interface for easy interaction
 - Allows users to upload images and receive captions in real-time
