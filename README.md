@@ -39,7 +39,7 @@ This project implements an **automated image captioning AI** that -
 Hugging Face is an open-source AI platform enabling scientists, developers, and businesses to create and share machine learning models, datasets, and applications.  
 It democratizes AI, providing tools for users who may not have the resources to develop models from scratch.  
 
-The **Transformers** library from Hugging Face offers state-of-the-art pretrained models for tasks like:
+The **Transformers** library from Hugging Face offers state-of-the-art pretrained models for tasks like -
 
 - Text classification  
 - Question answering  
@@ -52,7 +52,7 @@ A key feature is **multimodal learning**, which combines text and image data—c
 
 **BLIP (Bootstrapped Language-Image Pretraining)** is a cutting-edge model that bridges NLP and computer vision, learning associations between images and text.  
 
-Use cases include:
+Use cases include -
 
 - Automatically generating captions for social media platforms  
 - Creating searchable image descriptions for digital asset management systems  
@@ -65,7 +65,7 @@ BLIP is available as a ready-to-use model via Hugging Face Transformers.
 
 **Gradio** is an open-source Python library for building interactive web interfaces for machine learning models, APIs, or any Python function.  
 
-With Gradio, we can:
+With Gradio, we can -
 
 - Create user-friendly demos without needing JavaScript, CSS, or web hosting skills  
 - Share our models via a simple URL for instant access
