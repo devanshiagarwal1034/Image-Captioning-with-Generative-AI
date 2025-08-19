@@ -121,7 +121,7 @@ demo = gr.Interface(fn=caption_image,
                     title="BLIP Image Captioning")
 
 demo.launch()
-
+```
 
 * Defines a function to generate captions for a single image.
 * Uses **Gradio** to create a simple web interface.
