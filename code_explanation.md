@@ -1,5 +1,5 @@
 
-# Detailed Code Explanation: Image Captioning with Generative AI
+# Code Explanation
 
 This document explains, step by step, how the Image Captioning AI project works, based on the Colab notebook.
 
@@ -15,10 +15,10 @@ We need several Python libraries for image processing, AI modeling, and web inte
 !pip install pillow==9.5.0
 ````
 
-* **torch & torchvision**: For PyTorch deep learning framework.
-* **transformers**: Hugging Face library for BLIP model.
-* **accelerate**: Optimizes model performance.
-* **pillow**: Handles image input and processing.
+* **torch & torchvision**- For PyTorch deep learning framework.
+* **transformers**- Hugging Face library for BLIP model.
+* **accelerate**- Optimizes model performance.
+* **pillow**- Handles image input and processing.
 
 
 
@@ -31,10 +31,10 @@ import torch
 from google.colab import files
 ```
 
-* **PIL.Image**: Opens and processes images.
-* **BlipProcessor & BlipForConditionalGeneration**: Pretrained BLIP model for image captioning.
-* **torch**: Handles tensors for model inputs.
-* **files**: Allows uploading images in Colab.
+* **PIL.Image**- Opens and processes images.
+* **BlipProcessor & BlipForConditionalGeneration**- Pretrained BLIP model for image captioning.
+* **torch** - Handles tensors for model inputs.
+* **files** - Allows uploading images in Colab.
 
 
 
